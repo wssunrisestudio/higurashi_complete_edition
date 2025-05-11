@@ -1,0 +1,89 @@
+2025-05-11 07:01:46 UTC
+Windows-10-10.0.19045
+Ren'Py 8.3.7.25031702
+
+Early init took 2.10s
+Loading error handling took 0.23s
+Loading script took 2.48s
+Loading save slot metadata took 0.80s
+Loading persistent took 0.05s
+ - Init at renpy/common/00audio.rpy:47 took 0.29254 s.
+Running init code took 0.62s
+Loading analysis data took 0.06s
+Analyze and compile ATL took 0.06s
+Reloading save slot metadata took 0.33s
+Index archives took 0.03s
+Dump and make backups took 0.14s
+Cleaning cache took 0.03s
+Making clean stores took 0.00s
+Initial gc took 0.21s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.46s
+Cleaning stores took 0.00s
+Init translation took 0.01s
+Build styles took 0.04s
+Load screen analysis took 0.05s
+Analyze screens took 0.04s
+Save screen analysis took 0.00s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.00s
+Running _start took 0.01s
+Interface start took 0.95s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 960/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 560.94'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1920, 1080) drawable=(1920, 1080)
+Maximum texture size: 4096x4096
+1746946913.6457512
+Our user: {'id': '877184049532260432', 'username': 'wssunrise', 'discriminator': '0', 'avatar': None}
+1746946914.562763
+An error occurred! Error 4000: child "activity" fails because [child "state" fails because ["state" length must be at least 2 characters long]]
+Screen sizes: virtual=(1920, 1080) physical=(1440, 810) drawable=(1440, 810)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1920, 1017) drawable=(1920, 1017)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1920, 1017) drawable=(1920, 1017)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1920, 1017) drawable=(1920, 1017)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.01s
+Build styles took 0.01s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+1746946952.0425384
+Cleaning stores took 0.00s
+Init translation took 0.01s
+Build styles took 0.01s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+1746946986.9444351
+Cleaning stores took 0.00s
+Init translation took 0.01s
+Build styles took 0.01s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+1746946996.4552863
+Cleaning stores took 0.00s
+Init translation took 0.01s
+Build styles took 0.02s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+1746947193.6083806
