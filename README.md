@@ -1,4 +1,4 @@
-# Higurashi When They Cry: Complete Edition 
+# Higurashi When They Cry: Complete Edition  
 
 Assembling an All-in-One novel using the Ren'Py 8.3.7 engine
 The project is entirely in Russian.
